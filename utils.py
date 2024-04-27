@@ -1,11 +1,7 @@
 import os
 import openai
-import random
-import io
 import speech_recognition as sr
 import streamlit as st
-from streamlit_mic_recorder import mic_recorder
-from langchain_openai import OpenAI
 from datetime import datetime
 
 #decorator
