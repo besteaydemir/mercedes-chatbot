@@ -26,6 +26,10 @@ class ContextChatbot:
     def main(self):
         chain = self.setup_chain()
         user_query = st.chat_input(placeholder="Ask me anything!")
+        
+        if st.button('Voice input', key='voice_button', help='This is the voice input button', on_click=lambda: st.write("")):
+            user_query = utils.speech_to_text()
+
         if user_query:
             utils.display_msg(user_query, 'user')
             with st.chat_message("assistant"):
