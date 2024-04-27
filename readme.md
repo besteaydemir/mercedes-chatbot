@@ -9,9 +9,12 @@ This is a template for the general llm project for Mercedes In this project, Lan
 
 Further Developments:
 
-Merge the default GPT 3.5 with our own RAG/Finetuned LLM model
-Enhance the project with tts/stt tech
-Give the user the chance to whether activate the tts/stt or stay in chat.
-Add avatars, find a way to add avatars.
+* Merge the default GPT 3.5 with our own RAG/Finetuned LLM model
 
-More possible? Please add!
+* Enhance the project with tts/stt tech
+
+* Give the user the chance to whether activate the tts/stt or stay in chat.
+
+* Add avatars, find a way to add avatars.
+
+More possible? Or too much? Please add or remove!
