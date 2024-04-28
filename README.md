@@ -1,5 +1,7 @@
 # Sales Assistant for Mercedes Benz Electric Vehicles
 
+You can use the small demo given in cohere_rplus_chatbot.ipynb
+
 ## Pipeline
 - Use llama-index and Cohere Command R+ model.
 - Utilized RAG operations to enrich the knowledge base with data from Mercedes and the company's official website.
