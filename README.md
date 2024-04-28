@@ -1,6 +1,6 @@
 # Sales Assistant for Mercedes Benz Electric Vehicles
 
-You can use the small demo given in cohere_rplus_chatbot.ipynb.
+You can use the small demo given in [cohere_rplus_chatbot.ipynb](cohere_rplus_chatbot.ipynb).
 
 ## Pipeline
 - Use llama-index and Cohere Command R+ model.
