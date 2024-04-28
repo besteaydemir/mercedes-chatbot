@@ -1,0 +1,171 @@
+EQS 450+:
+    price:
+        price: Germany - €109,551
+    performance:
+        range: Electric Range *-395 mi
+        top_speed: Top Speed-130 mph
+    power:
+        power: Total Power-265 kW (355 hp)
+    battery:
+        warranty: Warranty Period-10 years
+        type: Battery Type-Lithium-ion
+        capacity: Useable Capacity-108.4 kWh
+    charge:
+        charge_time: Charge - Time - (0->395 - mi) - 11h45m
+        charge_speed: Charge - Speed - 34 - mph
+    misc:
+        seater: 5 people
+        body: Saloon
+        segment: F - Luxury
+EQE 500 4Matic:
+    price:
+        price: Germany - €88,215
+    performance:
+        range: Electric Range *-315 mi
+        top_speed: Top Speed-130 mph
+    power:
+        power: Total Power-300 kW (402 hp)
+    battery:
+        warranty: Warranty Period-10 years
+        type: Battery Type-Lithium-ion
+        capacity: Useable Capacity-90.6 kWh
+    charge:
+        charge_time: Charge - Time - (0->315 - mi) - 9h45m
+        charge_speed: Charge - Speed - 33 - mph
+    misc:
+        seater: 5 people
+        body: Saloon
+        segment: E - Executive
+G53 4Matic+:
+    price:
+        price: Germany - €155,009
+    performance:
+        range: Electric Range *-335 mi
+        top_speed: Top Speed-155 mph
+    power:
+        power: Total Power-560 kW (751 hp)
+    battery:
+        warranty: Warranty Period-10 years
+        type: Battery Type-Lithium-ion
+        capacity: Useable Capacity-108.4 kWh
+    charge:
+        charge_time: Charge - Time - (0->335 - mi) - 6 - hours
+        charge_speed: Charge - Speed - 58 - mph
+    misc:
+        seater: 5 people
+        body: Saloon
+        segment: F - Luxury
+EQS SUV 450+:
+    price:
+        price: Germany - €110,801
+    performance:
+        range: Electric Range *-335 mi
+        top_speed: Top Speed-130 mph
+    power:
+        power: Total Power-265 kW (355 hp)
+    battery:
+        warranty: Warranty Period-10 years
+        type: Battery Type-Lithium-ion
+        capacity: Useable Capacity-118.0 kWh
+    charge:
+        charge_time: Charge - Time - (0->335 - mi) - 12h45m
+        charge_speed: Charge - Speed - 27 - mph
+    misc:
+        seater: 7 people
+        body: SUV
+        segment: JF - Luxury
+EQS 580 4Matic:
+    price:
+        price: Germany - €141,705
+    performance:
+        range: Electric Range *-365 mi
+        top_speed: Top Speed-130 mph
+    power:
+        power: Total Power-400 kW (536 hp)
+    battery:
+        warranty: Warranty Period-10 years
+        type: Battery Type-Lithium-ion
+        capacity: Useable Capacity-108.4 kWh
+    charge:
+        charge_time: Charge - Time - (0->365 - mi) - 11h45m
+        charge_speed: Charge - Speed - 31 - mph
+    misc:
+        seater: 5 people
+        body: Saloon
+        segment: F - Luxury
+EQE 300:
+    price:
+        price: Germany - €67,187
+    performance:
+        range: Electric Range *-325 mi
+        top_speed: Top Speed-130 mph
+    power:
+        power: Total Power-180 kW (241 hp)
+    battery:
+        warranty: Warranty Period-10 years
+        type: Battery Type-Lithium-ion
+        capacity: Useable Capacity-89.0 kWh
+    charge:
+        charge_time: Charge - Time - (0->325 - mi) - 9h45m
+        charge_speed: Charge - Speed - 34 - mph
+    misc:
+        seater: 5 people
+        body: Saloon
+        segment: E - Executive
+EQS SUV Maybach 680:
+    price:
+        price: Germany - €200,634
+    performance:
+        range: Electric Range *-305 mi
+        top_speed: Top Speed-130 mph
+    power:
+        power: Total Power-484 kW (649 hp)
+    battery:
+        warranty: Warranty Period-10 years
+        type: Battery Type-Lithium-ion
+        capacity: Useable Capacity-118.0 kWh
+    charge:
+        charge_time: Charge - Time - (0->305 - mi) - 6h30m
+        charge_speed: Charge - Speed - 48 - mph
+    misc:
+        seater: 4 people
+        body: SUV
+        segment: JF - Luxury
+EQB 250+:
+    price:
+        price: Germany - €53,514
+    performance:
+        range: Electric Range *-260 mi
+        top_speed: Top Speed-99 mph
+    power:
+        power: Total Power-140 kW (188 hp)
+    battery:
+        warranty: Warranty Period-8 years
+        type: Battery Type-Lithium-ion
+        capacity: Useable Capacity-70.5 kWh
+    charge:
+        charge_time: Charge - Time - (0->260 - mi) - 7h45m
+        charge_speed: Charge - Speed - 34 - mph
+    misc:
+        seater: 7 people
+        body: SUV
+        segment: JC - Medium
+eVito Tourer:
+    price:
+        price: Germany - €72,043
+    performance:
+        range: Electric Range *-200 mi
+        top_speed: Top Speed-99 mph
+    power:
+        power: Total Power-150 kW (201 hp)
+    battery:
+        warranty: Warranty Period-No Data
+        type: Battery Type-Lithium-ion
+        capacity: Useable Capacity-90.0 kWh
+    charge:
+        charge_time: Charge - Time - (0->200 - mi) - 9h45m
+        charge_speed: Charge - Speed - 21 - mph
+    misc:
+        seater: 8 people
+        body: Small Passenger Van
+        segment: N - Commercial
